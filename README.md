@@ -21,7 +21,7 @@ A comprehensive GUI-based tool for analyzing the morphological structure of Engl
 ## Installation
 
 ### Prerequisites
-- Python 3.6 or higher
+- Python 3.8 or higher
 - pip (Python package installer)
 
 ### Required Dependencies
