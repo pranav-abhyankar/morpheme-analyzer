@@ -1,4 +1,4 @@
-# Morpheme Analyzer
+# Morpheme Analyzer for English Language
 
 A comprehensive GUI-based tool for analyzing the morphological structure of English words. This application breaks down words into their constituent morphemes (prefixes, roots, and suffixes) and provides detailed linguistic information about each component.
 
